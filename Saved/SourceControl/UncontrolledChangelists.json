@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/P250508/P250508/Content/HackAndSlash/Items/BP_BoxBase.uasset",
+				"C:/P250508/P250508/Content/HackAndSlash/Items/BP_BoxSpawnComponent.uasset",
+				"C:/P250508/P250508/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/P250508/P250508/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KU/J1QYYOXS5K1Y1YS2O6WXUN.uasset",
+				"C:/P250508/P250508/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/L3/HSP4OWIG22JUGMPKTD297B.uasset",
+				"C:/P250508/P250508/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/G6/QFV58YHJ8IXWJZPUHHNKEP.uasset",
+				"C:/P250508/P250508/Content/HackAndSlash/Items/BP_Box.uasset",
+				"C:/P250508/P250508/Content/HackAndSlash/Characters/BP_PlayerState.uasset"
+			]
+		}
+	]
+}
